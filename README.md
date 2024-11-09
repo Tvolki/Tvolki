@@ -5,7 +5,6 @@
 [Telegram](https://t.me/Andre1Ter)
 
 - 💻 I am student
-
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
