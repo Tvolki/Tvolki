@@ -9,7 +9,7 @@
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,py,ts&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=pycharm&perline=7" />
    
